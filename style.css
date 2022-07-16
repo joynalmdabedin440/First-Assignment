@@ -1,3 +1,7 @@
+body{
+    margin: 0px;
+}
+
 h1{
     font-size: 80px;
 }
@@ -147,5 +151,60 @@ p{
 #donate p{
     font-size: 20px;
 }
+#motivate{
+    display: flex;
+    width: 100%;
+    padding: 2%;
+}
+#motivate2{
+    display: flex;
+    width: 100%;
+    padding: 2%; 
+}
+#updates{
+    text-align: center;
+}
+#email-button{
+    display: flex;
+    background: rgb(218, 188, 159);
+    width: 1500px;
+    height: 300px;
+    margin: 10%;
+    padding-top: 15%;
+}
+#email{
+    background: rgb(190, 185, 185);
+    width: 400px;
+    height: 50px;
+    color:gray ;
+    margin-left: 200px;
+    margin-bottom: 200px;
+    padding: 5px;
+    padding-top: 20px;
+    border-radius: 5px;
+   
+}
+#subcribe{
+    background: red;
+    width:200px ;
+    height: 50px;
+    color: white;
+    padding: 5px;
+    padding-top: 20px;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+    background: black;
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+footer h1{
+    color: brown;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playball', cursive;
+}
+
 
    
