@@ -113,13 +113,21 @@ p{
     margin: 10px;
     background-image: url(donate-today-main/icons/food.png);
     background-repeat: no-repeat;
+    background-position: center;
+    
 }
+
+
 #shelter{
     background-color:pink ;
     width: 500px;
     height: 500px;
     padding: 3%;
     margin: 10px;
+    text-align: center;
+    background-image: url(donate-today-main/icons/shelter.png);
+    background-repeat: no-repeat;
+    background-position: center;
 
 }
 #education{
@@ -128,10 +136,16 @@ p{
     height: 500px;
     padding: 3%;
     margin: 10px;
+    background-image: url(donate-today-main/icons/Frame-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 #donate{
     display: flex;
     margin: 3%;
+}
+#donate p{
+    font-size: 20px;
 }
 
    
