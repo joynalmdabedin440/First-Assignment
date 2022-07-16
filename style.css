@@ -1,0 +1,137 @@
+h1{
+    font-size: 80px;
+}
+p{
+    font-size: 40px;
+}
+
+.bg-image{
+    background-image: url(donate-today-main/images/donation12.png);
+    min-width: 100%;
+    min-height: 1024px;
+    background-repeat: no-repeat;
+
+}
+.first-section{
+    text-align:center;
+}
+.first-section h1{
+    font-size: 80px;
+    color: rgb(248, 240, 240);
+
+}
+.first-section p{
+    font-size: 40px;
+    color: aliceblue;
+    padding:20px;
+
+
+}
+.donate-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight: 400;
+    padding: 10px 40px;
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    
+    
+}
+#donate-inspiration{
+    text-align: center;
+    margin: 5%;
+    padding: 5%;
+}
+#donate-inspiration h1{
+    font-size: 80px;
+}
+#donate-inspiration p{
+    font-size: 30px;
+}
+#donate-amount{
+    display: flex;
+    font-size: 30px;
+    text-align: center;
+    padding-left: 25%;
+}
+.amount{
+    background-color: rgb(211, 209, 209);
+    color: rgb(24, 23, 23);
+    width: 60px;
+    height: 60px;
+    padding: 2%;
+    margin: 2%;
+   
+    
+}
+#two{
+    width: 60px;
+    height: 60px;
+    padding: 2%;
+    margin: 2%;
+    border: 5px solid rgb(184, 17, 17);
+    color:rgb(184, 17, 17) ;
+    background-color: rgb(233, 190, 190);
+
+}
+#other-amount{
+    text-align: center;
+    font-size: 24px;
+    margin-top: 10px;
+    border-bottom: 2px solid rgb(87, 76, 76);
+    text-decoration: none;
+   
+   
+}
+#aling{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight: 400;
+    padding: 10px 40px;
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    margin-left: 45%;
+    margin-top: 20px;
+    padding-top: 50px;
+    padding-right: 40px;
+}
+#donate-plan{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+#food{
+    background-color: aliceblue;
+    width: 500px;
+    height: 500px;
+    padding: 3%;
+    margin: 10px;
+    background-image: url(donate-today-main/icons/food.png);
+    background-repeat: no-repeat;
+}
+#shelter{
+    background-color:pink ;
+    width: 500px;
+    height: 500px;
+    padding: 3%;
+    margin: 10px;
+
+}
+#education{
+    background-color: rgb(207, 207, 164);
+    width: 500px;
+    height: 500px;
+    padding: 3%;
+    margin: 10px;
+}
+#donate{
+    display: flex;
+    margin: 3%;
+}
+
+   
